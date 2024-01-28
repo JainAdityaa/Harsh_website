@@ -9,7 +9,7 @@ export const Services = () => {
                 <div className='row justify-content-center'>
                     <div className='col-md-5'>
                         <div className='main-service-box'>
-                            <h5>Design_______________________01</h5>
+                            <h5>Design_______________01</h5>
                             <p>Nous prenons en compte l'interaction de l'utilisateur avec l'interface. Nous accordons une attention particulière aux tests d'hypothèses et au prototypage, seules les solutions les plus réussies sont retenues pour la visualisation.</p>
                             <div className='service-btn'>
                                 <a href='#'>Figma</a>
@@ -19,7 +19,7 @@ export const Services = () => {
                     </div>
                     <div className='col-md-5'>
                         <div className='main-service-box'>
-                            <h5>Developer___________________02</h5>
+                            <h5>Developer____________02</h5>
                             <p>Nous prenons en compte l'interaction de l'utilisateur avec l'interface. Nous accordons une attention particulière aux tests d'hypothèses et au prototypage, seules les solutions les plus réussies sont retenues pour la visualisation.</p>
                             <div className='service-btn'>
                                 <a href='#'>Figma</a>
@@ -31,7 +31,7 @@ export const Services = () => {
                 <div className='row justify-content-center pt-4'>
                     <div className='col-md-5'>
                         <div className='main-service-box'>
-                            <h5>Marketing___________________03</h5>
+                            <h5>Marketing____________03</h5>
                             <p>Nous prenons en compte l'interaction de l'utilisateur avec l'interface. Nous accordons une attention particulière aux tests d'hypothèses et au prototypage, seules les solutions les plus réussies sont retenues pour la visualisation.</p>
                             <div className='service-btn'>
                                 <a href='#'>Figma</a>
@@ -41,7 +41,7 @@ export const Services = () => {
                     </div>
                     <div className='col-md-5'>
                         <div className='main-service-box'>
-                            <h5>Ads__________________________02</h5>
+                            <h5>Ads________________02</h5>
                             <p>Nous prenons en compte l'interaction de l'utilisateur avec l'interface. Nous accordons une attention particulière aux tests d'hypothèses et au prototypage, seules les solutions les plus réussies sont retenues pour la visualisation.</p>
                             <div className='service-btn'>
                                 <a href='#'>Figma</a>

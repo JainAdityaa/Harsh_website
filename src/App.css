@@ -3,6 +3,7 @@
 }
 body{
   background-color: white;
+  font-family: 'Poppins', sans-serif !important;
 }
 .App-logo {
   height: 40vmin;
@@ -53,14 +54,14 @@ body{
     padding-bottom: 30px;
   }
   .content h4{
-    font-size: 31px !important;
+    font-size: 28px !important;
     line-height: 45px !important;
   }
   .work-content{
     margin-bottom: 20px;
   }
   .work-content h4{
-    font-size: 20px;
+    font-size: 20px !important;
   }
   .views-img{
     width: 20%;
@@ -83,7 +84,7 @@ body{
     margin-bottom: 15px;
   }
   .main-service-box h5{
-    font-size: 22px !important;
+    font-size: 17px !important;
   }
   .brands img{
     padding-right: 15px !important;
