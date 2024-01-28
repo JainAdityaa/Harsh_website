@@ -1,0 +1,38 @@
+.service-section h4{
+    text-align: center;
+    margin-bottom: 40px;
+}
+.main-service-box{
+    background: #f4f4f4;
+    border-radius: 25px;
+    padding: 90px 60px;
+}
+.main-service-box h5{
+    font-weight: 600;
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+.main-service-box p{
+    font-size: 14px;
+}
+.service-section{
+    padding-top: 20px;
+    padding-bottom: 60px;
+}
+.service-btn a{
+    color: #5E43FF !important;
+    border: 2px solid #5E43FF;
+    border-radius: 25px;
+    padding: 1px 20px;
+    font-weight: 600;
+    font-size: 15px;
+    margin-right: 5px;
+    text-decoration: none;
+}
+.brands{
+    text-align: center;
+}
+.brands img {
+    padding-right: 25px;
+    width: 10%;
+}

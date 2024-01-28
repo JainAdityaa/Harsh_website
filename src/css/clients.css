@@ -1,0 +1,27 @@
+.client-section{
+    background: #5e43ff;
+    padding-top: 80px;
+    padding-bottom: 60px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.client-content h5{
+    font-size: 36px;
+    color: white;
+    font-weight: 600;
+    margin-bottom: 30px;
+    width: 77%;
+}
+.client-img{
+    text-align: center;
+}
+.client-img img{
+    width: 70%;
+    margin-left: 18%
+}
+.client-content p{
+    color: white;
+}
+.client-content p img{
+    width: 15%;
+}
