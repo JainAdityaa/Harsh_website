@@ -1,14 +1,16 @@
-.touch-section{
+.touch-section {
     padding-top: 50px;
     padding-bottom: 50px;
 }
-.touch-title{
+
+.touch-title {
     font-size: 35px;
     text-align: center;
     margin-bottom: 40px;
     font-weight: 600;
 }
-.touch-img{
+
+.touch-img {
     max-width: 100px;
     outline: 1px solid #00f;
     position: relative;
@@ -27,14 +29,14 @@
     box-shadow: 0 0 0 5px #f00;
     border-radius: 50%;
     pointer-events: none;
-  }
+}
 
-  .mc-animation-outer-ring{
+.mc-animation-outer-ring {
     outline: 1px solid #00f;
-    border-radius:50%;
+    border-radius: 50%;
     padding: 1rem;
     animation: wave 2s 10ms infinite alternate;
-  }
+}
 
 
 
@@ -43,18 +45,19 @@
 
 
 
-.touch-text a{
+.touch-text a {
     font-size: 18px;
     font-weight: bold;
     text-align: center;
     color: #5e43ff;
     text-decoration: none;
 }
-.touch-text{
+
+.touch-text {
     text-align: center;
 }
 
-.mc-animation-wrapper{
+.mc-animation-wrapper {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -63,7 +66,7 @@
     /* max-height:120px; */
 }
 
-.mc-animation-wrapper a{
+.mc-animation-wrapper a {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -74,29 +77,29 @@
 
 
 @keyframes waveOuter {
-    0%{
+    0% {
         padding: -10px;
         width: 100px;
     }
-    
-    100%{
-        padding:1rem;
+
+    100% {
+        padding: 1rem;
         width: 120px;
     }
 }
 
-.mc-animation-container{
+.mc-animation-container {
     max-width: 120px;
 }
 
 
 
 @keyframes wave {
-    0%{
+    0% {
         padding: 0;
     }
-    
-    100%{
-        padding:1rem;
+
+    100% {
+        padding: 1rem;
     }
 }
